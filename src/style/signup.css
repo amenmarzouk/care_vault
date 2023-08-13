@@ -1,0 +1,6 @@
+.signup{
+    background-image: url("../assests/signup_back.jpg");
+    background-repeat: none;
+    background-size:cover;
+    height: 100vh;
+}

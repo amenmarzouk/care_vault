@@ -1,0 +1,7 @@
+.doclogin{
+    background-image: url("../assests/doc_loginback.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    overflow: hidden;
+}

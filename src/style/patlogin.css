@@ -1,0 +1,7 @@
+.patlogin{
+    background-image: url("../assests/patlogin_back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    overflow: hidden;
+}

@@ -1,0 +1,46 @@
+.click_cont{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+margin-top: 100px;
+
+
+}
+.click{
+background-color: #adc3d1;
+width: 250px;
+height: 250px;
+border-radius: 8px;
+}
+.log_pic{
+    width: 150px;
+    height: 150px;
+    margin-top: 4px;
+    margin-left: 50px;
+}
+
+.log_title{
+    text-align: center;
+ font-size: 30px;
+    
+}
+.click_cont a { 
+    text-decoration: none;
+    color: white;
+}
+
+.ptitle{
+
+    font-size: 60px;
+   margin-bottom: -90px;
+   text-align: center;
+   color:#576fd8;
+}
+
+.guest_cont{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+align-items: center;
+margin-top: 100px;
+}

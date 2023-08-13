@@ -1,0 +1,17 @@
+.error{
+    background-image:  url("../assests/error_back.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 667px;
+}
+.cavlogo{
+    margin-left: 470px;
+    width: 400px;
+    height: 400px;
+}
+.tit{
+    text-align: center;
+    color: azure;
+    font-size: 35px;
+    margin-top: -50px;
+}

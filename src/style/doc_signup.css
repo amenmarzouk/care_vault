@@ -1,0 +1,57 @@
+
+.docsignup #left{
+    background-image: url("../assests/docsignup_back.png");
+    width: 52%;
+height: 90.3vh;
+position: absolute;
+background-repeat: no-repeat;
+overflow: hidden;
+
+
+}
+
+.patsignup #left{
+    background-image: url("../assests/patsignup_back.jpg");
+    width: 50%;
+height: 90.3vh;
+position: absolute;
+background-repeat: no-repeat;
+overflow: hidden;
+
+
+}
+
+
+
+.theform{
+  float: right;
+  margin-right: 150px;
+}
+
+.docsignup input ,.patsignup input{
+margin: 5px;
+}
+
+.docsignup  input[type="submit"],.patsignup input[type="submit"] {
+    display: block;
+}
+.docsignup  input[type="date"],.patsignup input[type="date"] {
+    display: block;
+}
+
+.docsignup select,.patsignup select {
+    display: block;
+}
+
+.myinput input{
+    width: 95%;
+    height: 20px;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.theinput input{
+    padding: 3px;
+    height: 20px;
+    font-size: 15px;
+}

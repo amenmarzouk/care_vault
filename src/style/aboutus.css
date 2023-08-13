@@ -1,0 +1,66 @@
+.aboutus{
+    background-image:  url("../assests/aboutus_back.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    }
+    .ta{
+margin-left: 30px;
+color: aliceblue;
+    }
+    .tb{
+        margin-left: 30px;
+        color: #9ee3f5;
+    }
+    .tv{
+        color: #F79256
+    }
+    .thep{
+        margin-left: 30px;
+        margin-top: 70px;
+
+    
+    }
+    .fp{
+        color: antiquewhite;
+        font-size: 30px;
+
+    }
+    .sp{
+        color: antiquewhite;
+        font-size: 25px;
+    }
+    .vpic{
+        width: 300px;
+        height: 300px;
+        float: right;
+    margin-top: -260px;
+      
+    }
+
+
+
+
+
+
+    .thesp{
+        margin-left: 450px;
+        margin-top: 100px;
+    
+    }
+    .fsp{
+        color: antiquewhite;
+        font-size: 25px;
+
+    }
+    .ssp{
+        color: antiquewhite;
+        font-size: 25px;
+    }
+    .dpic{
+        width: 300px;
+        height: 300px;
+        margin-top: -210px;
+   
+      
+    }
